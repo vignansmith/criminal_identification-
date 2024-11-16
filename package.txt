@@ -1,0 +1,1 @@
+pip install mtcnn==0.1.0

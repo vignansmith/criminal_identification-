@@ -1,0 +1,1 @@
+https://github.com/elnasdgreat/criminal-face-recognition-tensorflow/tree/master/aligned_data
